@@ -6,7 +6,7 @@ const skillCategories = [
   {
     title: "Programming Languages",
     icon: Code,
-    skills: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    skills: ["JavaScript", "TypeScript", "Python"],
   },
   {
     title: "Frontend",
@@ -21,17 +21,17 @@ const skillCategories = [
   {
     title: "Databases",
     icon: Database,
-    skills: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    skills: ["PostgreSQL", "MySQL",],
   },
   {
     title: "Tools & Platforms",
     icon: Wrench,
-    skills: ["Git", "Docker", "AWS", "Linux", "VS Code"],
+    skills: ["Git","Github","Canva", "Linux", "VS Code","n8n"],
   },
   {
     title: "Soft Skills",
     icon: Users,
-    skills: ["Problem Solving", "Team Work", "Communication", "Leadership"],
+    skills: ["Problem Solving", "Team Work", "Communication"],
   },
 ];
 

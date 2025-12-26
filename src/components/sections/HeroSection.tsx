@@ -22,14 +22,14 @@ export function HeroSection() {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <p className="text-primary font-medium mb-4 animate-fade-up opacity-0" style={{ animationDelay: "0ms", animationFillMode: "forwards" }}>
-            Welcome to my portfolio
+            Welcome
           </p>
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-up opacity-0" style={{ animationDelay: "100ms", animationFillMode: "forwards" }}>
+          <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-6 animate-fade-up opacity-0" style={{ animationDelay: "100ms", animationFillMode: "forwards" }}>
             Hi, I'm{" "}
-            <span className="text-primary">Your Name</span>
+            <span className="text-primary">Yuvaraj shanmugam</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-fade-up opacity-0" style={{ animationDelay: "200ms", animationFillMode: "forwards" }}>
-            Computer Science Student | Aspiring Software Developer
+          Aspiring Software Developer
           </p>
           <p className="text-muted-foreground max-w-xl mx-auto mb-10 animate-fade-up opacity-0" style={{ animationDelay: "300ms", animationFillMode: "forwards" }}>
             Passionate about building innovative solutions and turning ideas into reality through code.
